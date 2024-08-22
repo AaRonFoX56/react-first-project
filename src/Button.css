@@ -1,4 +1,4 @@
-.clear-button {
+.add-to-cart-btn {
     border: 1px solid black;
     border-radius: 5px;
     padding: 10px;
@@ -7,12 +7,12 @@
     transition: 0.3s;
 }
 
-.clear-button:hover {
+.add-to-cart-btn:hover {
     cursor: pointer;
     padding: 15px;
     font-size: large;
 }
 
-.clear-button:active {
+.add-to-cart-btn:active {
     opacity: 60%;
 }

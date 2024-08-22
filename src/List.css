@@ -1,0 +1,23 @@
+.list-category {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.list-items {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+    padding-bottom: 5px;
+}
+
+.list-items li{
+    font-size: 24px;
+    list-style: none;
+    text-align: center;
+}
